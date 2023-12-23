@@ -1,0 +1,349 @@
+---
+title: "Midterm - ADAM S LUCAS"
+format: 
+    html: 
+        code-fold: true
+jupyter: python3
+---
+##### Computational Methods For Fintech
+
+{{< pagebreak >}}
+
+## Part 1: 
+
+##### The Political Economy of Financial Technology and Innovation
+
+### 1.1. The Market Order of Catallaxy
+
+#### Q1. Political Economy vs Economic Science: 
+
+##### Difference: 
+
+> I do believe as Buchanan believes that there is some connectedness of Political Economy and Economic Science. As he states, "Economists find themselves measuring social costs and social benefits..". Our economy lives in a a transactional state, leaning towards the definition of economic science: "The systematic and evidence-based study of economic phenomena", while a political economy is defined as: "interrelationships between political institutions, power structures, and economic systems.". Nevertheless, in continuation of belief with Buchanan I find the need to lean towards a more true constitutional political economy, one that focuses on true economic concerns, future choices, and true arbitrage. Economic sciences can be a part of the political economy and if we want the economy to succeed I feel we must learn to include the sciences in the choices we make, and with the true analytics of the sciences we can learn to be political economists. 
+
+##### Application to FinTech and Data Science: 
+
+> As FinTech becomes more prominent worldwide, the need to interpret, analyze, and predict the outcomes of any economy become more necessitated. The applications of Fintech can be established in a form that allows for mass computation of economical data with real time models, outcomes and predictions. With Data Science, the provication of such applications will become more prominent as well in the need of handling of economical data, in capacities that can only continue to grow. The world that Buchanan envisioned was one led by choice; with the combination of data science and financial technology, we can move beyond the simple idea of growth and political considerations, but truly move on to social implications that can shape the future economy in a more equitable, transparent, and beneficial society. 
+
+##### Political Economy of Financial Technology: 
+
+> Does it make sense to speak of a *Political Economy of Financial Technology*? Oh, absolutely! The form in which politics have become such a key to the economy I find it necessary to speak of a Political Economy of Financial Technology, and I think it goes much deeper than a simple understanding of technology's play on the finance of the political economy. I feel that Financial Technology can truly help establish the theory of catallactics more broadly; the increase of technology allows for a wider distribution of knowledge and a further reach to finance.
+
+> An establishment of a Political Economy of Financial Technology means for a greater structured growth of the financial technology and it's application. Something I find intriguing about an economy, is the more an idea, or the application of the idea, becomes regulated, the larger the growth of the idea. If an  order can be established for a political economy of financial technology the outcome could be catastrophically benefial for the growth of new forms of cooperation and collaboration worldwide. 
+
+> However swell the idea is portrayed, there are quite a few details that require implementation in order to mitigate risks. In order to truly have a free and spontaneous market, the assurance that all individuals can possess, use and exchanges goods and services without the fear of interference, must be prominent. A free entry and exit for businesses must be established as well, this is crucial for permitting competition and preventing monopolies, thus allowing for innovation. And while there will be a *Political Economy* the actual government intervention must be limited. A political economy of financial technology could realistically find the right balance of regulation and facilation of market activity with these three key points, yet these strengths in the end are also the weaknesses of such an approach. The same need for the application of these ideas, is the same weakness that could simply destroy the idea of a catallaxy. 
+
+> In simple terms, my position is to civilize society. I believe allowing for a Political Economy based on Financial Technology, is the way we should truly head towards in order to establish a more perfect union and create a true catallaxy of free movement and collaborated growth. 
+
+### 1.2 The Knowledge Problem and Artificial Intelligence
+
+#### Q2. Machina Economicus
+
+> According to Parkes' and Wellman's it is my understanding that the Hayekian knowledge problem will continue to exist even with the development of more advanced AI agents. Part of the explanation that this paper gives is the explanation of where AI is getting it's data; in essence with the knowledge problem, how can we assure that AI is getting *ALL* the data, and where is said data coming from, and can we truly trust it. Another key point analyzed in the paper is the logical understanding that humans possess, more specifically how does the AI know what to do without the logical or legal reasoning behind the action. So in summary, it is unlikely, at this time in life, that artificially intelligent machines can be relied upon to optimally allocate resources in the physical economy. 
+
+#### Q3. Jordan vs Parkes and Wellman
+
+> Parkes and Wellman, with their focus in "machina economicus", believe that agents and their applications can behave rationally like "homo economicus". Jordan on the other is more focused on the intersection between human capacity and information systems, somewhat making a system in itself. The correct discipline would be of an intelligent systems or maybe Data Systems Engineering. 
+
+> While similar, both Jordan and Parkes and Wellman have the idea that the need for a combination of data, Parkes and Wellman looking more towards the understanding of an economy, whilst Jordan is looking at more techinical elements such as, statistics and computer science. Jordan also outlines understanding, safety, and realibility as key elements needing to develop a truly capable system. Another key element that Jordan discusses is the human utility and human preference, this leans towards an understanding system and not just a fully capable system. 
+
+#### Q4. Hayek's Knowledge Problem in AI
+
+> Hayek's Knowledge Problem applies to AI, 100%, yes! In my mind it is quite obvious the faults that AI currently contains, and this is considered innovation by the majority of the world. However, this does not explain why the knowledge problem applies. First, one man alone cannot create an AI system - a real system, not just a program - AI is built by teams, and not just technological teams. It is built by organizations that have no clue what the individual two cubicles down from them does, yet somehow the system, or application, gets built or in other terms, "Somehow, London is getting fed.". Another key point to consider is the information that AI can currently obtain, however vast the database, the access, or the timeframe that AI can reach. There will always be more data, more time, and more information to be discovered. A good analogy for this that comes to mind is the tomb of the First Qin Emperor, we know where the tomb is, we know the majority of what is in the tomb, why it was built, etc.. Nevertheless, it is very undiscovered, like we have seen the opening, the terracotta army and that's it. Nothing else. I wholeheartedly believe AI being in a very similar situation, the little pieces matter, so much so that we forget the little things in AI, we love that it can search the web and output text to us. But we forget that it has no clue what it is outputting without first an input. As Hayek states, (paraphrased because I can't find the quote..), the solution is to let individuals use their own knowledge to make decisions. AI tries to be the central planner, but it doesn't have all the pieces so it cannot solve everything that truly needs to be solved. AI lacks in many details and it is improving and continues to help the society grow, however, AI is not feeding London, we with AI are feeding London and I forsee it being that way for a long time. Even without all the information we can grow and build with AI, but we can't be alone. That is why the Hayekian Knowledge Problem applies to AI. 
+
+{{< pagebreak >}}
+
+## Part 2: Arbitrage in the Catallaxy
+
+### 2.1 Dutch Books and Arbitrage
+
+#### Q5. Tootsie Roll Economy
+
+> Using the example of the tootsie roll economy, we have a bag of tootsie rolls, you are walking through the market and decide you want to buy some tootsie rolls from the candy machine. However, the machine is sealed and you really don't want to pay for a tootsie roll and end up with a chocolate. Thinking that cherry tootsie rolls are the most visible inside the candy machine, you assign a probability of 70% that the tootsie roll will be a cherry. By definition, the probability of the tootsie roll being chocolate is automatically calculated at 30%. A genius, by the name of Adam, sees you don't want to purchase them in the case you get a tootsie roll you don't want to eat. Adam then offers you a way to make money to recover your expenses; he offers you three separate bets:
+>
+> - Bet 1: Adam bets $10 dollars that you will receive a cherry tootsie roll. You will accept, as your prior is 70%.
+>
+> - Bet 2: Adam bets $15 dollars that you will recieved a chocolate tootsie roll. You also accept this as favorable bet.
+>
+> - Bet 3: Adam bets $25 dollars that you will recieve either a chocolate tootsie roll or a cherry tootsie roll. As these are the only option you can get from the machine, you too accept this bet.
+>
+> Now you get your tootsie roll from the machine, it's a chocolate. Well, darn, because those are disgusting, and more importantly you lost money, Adam, however, did not lose money, he made a nice profit of $10 dollars for doing absolute nothing. The financial outcome looks as follows: You paid Adam $25 dollars becuase of Bet 3, and Adam pays you $15 dollars because of Bet 2. You thus lost less money than you have by taking only one bet, but you were "Dutch Booked!". 
+
+> The bettaker, Adam, is cleary arbitraging the simple economy by setting up the 3 bets. Had it only been one or two bets, it would be near impossible to arbitrage. The real opportunity comes from your inconsistent subjective probability; by maintaining a disequilibrium in your probabily estimates, you allowed for Adam to come in and guarantee a profit through arbitrage. In order to impede Adam from making an arbitrage, your subjective probability would need to be consistent in order to avoid being "dutch booked."
+
+> This does not give a derivation of Baye's Rule. From what I understand from Skyrms paper, the probability today must be the same as the probabilty tomorrow. With our simple economy, there is no guarantee. In Baye's simplified terms, your posterior may change now you have withdrawn a chocolate tootsie roll as Bayes is a mathematical formula for updating your prior. In Dutch Book terms, there is no specific updating of probabilities, you take your loss and move one. Once you've been dutched book, you now know the crook that robbed you so you won't do it again, but your probabilities aren't going to change near as much, if any. 
+
+#### Q6. Neoclassical Finance and Supply-and-Demand Approach of Neoclassical Economics
+
+> Ross's understanding is intruiging in the aspect goes contrary to popular belief, which is why I too find it intriguing. Ross states, "the focus of finance is micro theoritic and the intuition of finance is the absence of arbitrage." In agreement with Ross, I find these discoverings to be enlightening in vision that maybe the way are doing things is just because of some less-formal mathematical equation and less of what we truly beleive should happen in the financial markets. Ross brings insight that without these theories of finance in place we may be even more lost than we currently are. Nevertheless, it is most important to remember, that true efficient markets are efficient because of our intuition, the way things have always worked. To bring Hayek, and the knowledge probem, into perspective, London was fed without these mathematical equations and financial theories, and London is continue to be fed as well, with all theories and equations implented. Perhaps, we are truly lacking the knowledge of what is needed to have a efficient financial markt. Now to bring Ross back into this, maybe we need to step back and see how it worked before, solely on intuition, in order to see how we can truly arbitrate the catallaxy of the future. 
+
+> A Dutch Book returns a net positive due to the disequilibrium in the subjective probabilities of the bettee. Ross states the following: 
+>
+>> "The forces of supply and demand have no meaning, since if the price is not the equilibrium price, then the difference between supply and demand is infinite. This is precisely what is meant by an arbitrage situation, and it is so qualitatively different from the economist's usual picture of demand and supply as to require a different approach."
+>
+> The dutch book allows for infinite possibilities above or below the equilibrium. Your demand in the previous tootsie roll economy, based on your subjective estimates allowed for a disequilibrium, allowed for Adam to place bets on either side of the scale to the infinity. Your desire for a cherry tootsie roll could never be portrayed by a linear line. Thus the approach of a dutch book can be beneficial in understand the true intuition of an individual; by moving the bets up and down Adam could discover to what extent you really want a tootsie roll, to what loss you will go in order to receive a tootsie, and also at what level of trust you hold your own personal intuition or prior. 
+
+### 2.2 Operational-Subjective Probability and statistics
+
+#### Q7. Arbitrage Choice Theory
+
+> Simple answer: "PROBABILITY DOES NOT EXIST", objectively, of course. 
+>
+> The key point to be discussed with the Arbitrage Choice Theory, and how it provides an operationally-subjective basis for a catallactic foundation of FinTech and Data Science, is the perception of de Finetti which states the following (paraphrased): probability is not an objective property of the world, but rather a personal degree of belief held by an individual. He also concluded that probability comes from an individuals willingness to bet on or against something. Which in simple terms, probability only exists when their is a price to be made, and that price depends wholly on the individual making the choice. A catallaxy is founded on the basis of the need to trade, barter and exchange. While Nau and McCardle don't one-hundred percent agree with de Finetti definitions and terms, I conclude that the understanding is the same; Arbitrage Choice Theory extends the knowledge of choices under uncertainity - as long as choices are judged rationally and do not cause exploitations to the decision maker. 
+
+#### Q8.  Fundamental Theorem of Statistical Inference
+
+> De Finetti approaches similarity to Baye's Theorem is intriguing in itself. Poirier discusses that de Finettis approach is based on the idea of past observations being used to predict future observation. Bayes Theorem in essence is a copy of this approach in addition to having some form of prior belief. With these close connections established, the representation theorem lays important principles in the liklihoods, priors, and a large foundation of inductive reasoning in statistics and probability. Krep makes some key points, however, on the implication of frequentist theories tied into de Finetti's theorem. In agreement with Krep, I feel that this is what makes the representation theorem so fundamental. The idea of implementing the true probability methods, found within Bayesian reasoning, and combining them with the consistency of key frequentist methods and properties, truly is fundamental to understanding of statistical inference. 
+
+{{< pagebreak >}}
+
+## Part 3: Metallgesellschaft and the Economics of Synthetic Storage
+
+### 3.1 Futures Markets and Hedging
+
+#### Q9. Arbitrage principles
+
+> $$ F₀ > S₀ \cdot e^{rT} $$
+>
+> This implies an arbitrage opportunity if we are buying the stock at the current . Simply explained, the arbitrageur could buy the cheap forward contract and replicate it by short selling the assest. This is portrated by simple equation, where R equals return: $$R =  F₀ - S₀ \cdot e^{rT} $$
+
+> $$ F₀ < S₀ \cdot e^{rT} $$
+>
+> Similar to the previous option, this could also imply an arbitrage opportunity if we are borrowing and buying the forward contract. Simply explained we would could arbitrate by buying the forward option of the stock at the lower price, and then knowingly wait for the spot price to match the forward price. Thus making a simple equation, where R equals return: $$R =  S₀ \cdot e^{rT} - F₀ $$
+
+> In the case of the discrete dollar dividend payments. Dividends lower the forward price due to the fact that a forward contract does not earn dividends, thus the calculation needs to be done in order to account for the dividends lost while the contract is being held. The adjustment can be made by subtracting the dividend from the spot, thus lowering the total value of the spot price at time T. It would look something like this: 
+$$  F_0 = (S_0 - D_1) \cdot e^{rT_1} $$
+> 
+> In the case of a continuos dividend yield, it would be a similar equation yet again, but we will need to subtract the continous dividend yield from the risk free rate in the exponent, this is commonly expressed as q, and is in fraction form. 
+$$ F_0 = S_0 \cdot e^{(r-q)T} $$
+> 
+>> Both of these changes to the pricing equation can truly effect the arbitrage opportunities, or even just the return overall. By adding dividends, whether continous or a discrete dollar amount, the change associated can greatly impact the stock value. The implementation of dividends into the pricing model can help narrow down the true future value of the stock and can lead to arbitrage opportunites and accurate market adjustments. 
+
+> Commodies with storage costs change the pricing equation by differencing the "costs of carry", as these are costs we subtract them from the pricing formula, thus making the equation look something like this: $$F_0 = S_0 \cdot e^{rT} - cT$$ However, holding physical commodities also comes with some benefits, also known as the "convenience yield", these benefits include advantages like the ability to sell at spike prices, keeping a business running, and being able to control the market. Since these are benefits, they are adding value to the asset thus requiring one more change to the equation, thus making the final equation look like so: $$F=0 = S_0 \cdot e^{rT} + yT - cT$$
+The costs of physically holding the commodite decrease the forward price, and the benefits increase the forward price. 
+
+> In a normal market future prices are converging to spot prices at expiration due to delivery. This is consistent in order to limit the arbitrage opportunities. If futures prices were higher than the spot price, people would sell futures and buy the spot price. This in itself is brings the prices together, because of this action we know that spot prices and futures prices are accurate. If they didn't become closer near maturity we would begin to lose accuracy and trust in the option. 
+> If spot and future prices did not converge at the maturity date we would have quite the problem. The main problem being the loss of arbitrage, if we know the prices are going to converge it becomes easy to arbitrate the market and buy low and sell high or viceversa. Without this convergence of the future price equalling the stock price, profits without risk would become prominent. 
+
+> A change to the pricing formula would be quite simple, all that is needed is to account for the removal of the continued payments so we flip the formula to negative  $$F_0 = S_0 \cdot e^{-rT}$$ This is to indicate the instant payment that comes from purchasing the option at time = 0, or right now. The negative also removes the earnings that come from owning the asset, since the buyer has just paid for the option and has yet to receive the actual commodity.
+>
+> This does happen in real life, an example that came to mind is farming. Farmers tend to predict what the season will be like ahead of time, and because of such they have to know what crops they will sell before they even start the seaoson. This then allows for arbitrage on multiple sides all on a prepaid forward contract. Farmer number 1 goes into a forward contract with the farmer number 2, selling 100 dollars worth of corn seeds, with the promise the farmer will give him 10 haybales for his cattle at the end of the year. Farmer number 2 then goes into a contract with neighbor Jimmy, where Jimmy gives him 110 dollars with the promise of 10 bushels of corn at the end of the season. None of the farmers, nor Jimmy know what the prices will be at the end of the harvest. Corn prices could go up which means Jimmy saves money and Farmer 2 loses money, or maybe the opposite and Jimmy still gets his corn, but at a very high price. This can be played in many different ways, and I am sure it is used all the time for tax purposes, getting businesses off the ground, or just sneaky financial purposes. When played correctly a prepaid forward contract could return a lot of value. 
+
+{{< pagebreak >}}
+
+
+
+#### Q10. Data with Crude Oil
+```{python}
+
+import pandas as pd
+import numpy as np
+from scipy import stats
+import statsmodels.api as sm
+from statsmodels.tsa.stattools import adfuller, coint
+import matplotlib.pyplot as plt
+
+df = pd.read_csv('WTI-Prices-1992-to-1993.csv')
+
+
+print("Levels")
+adf_test = adfuller(df['Spot'])
+print('ADF Stat: %f' % adf_test[0])
+levels_p = adf_test[1]
+print('p_value: %f' % levels_p)
+
+print("\nFirst Price Differences")
+diff = df['Spot'].diff()
+adf_test = adfuller(diff.dropna())
+print('ADF Stat: %f' % adf_test[0])
+diff_p = adf_test[1]
+print('p_value: %f' % diff_p)
+
+print("\nLog Prices - Levels")
+log_prc = np.log(df['Spot'])
+adf_test = adfuller(log_prc)
+print('ADF Stat: %f' % adf_test[0])
+log_levels_p = adf_test[1]
+print('p_value: %f' % log_levels_p)
+
+print("\nLog Prices - Differences")
+diff = log_prc.diff().dropna()
+adf_test = adfuller(diff)
+print('ADF Stat: %f' % adf_test[0])
+log_diff_p = adf_test[1]
+print('p_value: %f' % log_diff_p)
+
+
+# My results
+print("""
+Levels: Since the P Value is so high, I conclude that we fail to reject the null hypothesis of a unit root. In other words, the levels in this time series contain a unit root and are non-stationary.
+""")
+print("""
+First Price Differences: Since the P Value is 0 we can reject the null hyptothesis and I conclude the First Price Differences do not contain a unit root and are stationary time sets.  
+""")
+print("""
+Log Levels: Even after changing to log the P Value stays high, this again means that we can fail to reject the null hyptothesis and I continue to conlude that the log levels containa unit root and are non-stationarity.
+""")
+print("""  
+Log First Differences: P value still stays at 0 meaning we continue to strongly reject the null hypothesis. I also continue to conclude that the log of first differences does not contain a unit root and are stationary time sets.
+""")
+print("""
+For time series data it does not suprise me too much, with most time series data it is stochastic, however when we take differences in price levels, because of random walk and mean reversion I expect the difference to all make the data stationary.
+
+
+
+""")
+
+# Time Series Plots
+print("TIME SERIES PLOTS:")
+# Price levels
+plt.plot(df['Spot'])
+plt.title('Levels')
+plt.ylabel('Prices')
+plt.show()
+
+# First differences  
+diff = df['Spot'].diff()
+plt.plot(diff)
+plt.title('First Differences')
+plt.ylabel('Prices')  
+plt.show()
+
+# Log prices
+log_prices = np.log(df['Spot']) 
+plt.plot(log_prices)
+plt.title('Log  Levels')
+plt.ylabel('Log Prices') 
+plt.show()
+
+# Log first diffs  
+log_diff = np.log(df['Spot']).diff()
+plt.plot(log_diff)
+plt.title('Log First Differences') 
+plt.ylabel('Log Prices')
+plt.show()
+
+
+#Engle Granger
+# regression
+# Y_t = a + Bx_t + u_t
+
+N = len(df)
+y = df['Spot']
+x = df['Futures']
+
+reg = stats.linregress(x, y)
+
+uhat = y - reg.intercept  - reg.slope * x
+
+residuals = pd.Series(uhat)
+
+
+
+results = adfuller(uhat)
+print('ADF: %f   | P Value: %f' % (results[0], results[1]))
+
+residuals.plot(grid = True)
+plt.title("Residuals")
+# plt.show()
+
+
+
+print("As visible from the residuals plot, we can see that the data is relatively stationary, focused pretty tightly on the mean. Because of this mean reversion we can conclude that the residuals are cointegrated by following a constant mean pattern. Mean reversion is visibly prominent in this plot, and we can see a few extreme data points, but it is a tight cointegration.")
+
+plt.show()
+# minimum variance hedge ratio
+# h* = (p * o_s)/o_f
+# h* = min var hedge ratio
+# p = corr coefficient spot price change futures price change
+# o_f = std dev future
+# o_s = std dev spot 
+
+df = pd.read_csv('WTI-Prices-1992-to-1993.csv', parse_dates = ['Date'])
+
+spotChanges = df['Spot'].diff()
+futureChanges = df['Futures'].diff()
+
+ratios = []
+
+days = 60
+
+for i in range(days, len(df)):
+
+   spotWindow = spotChanges.iloc[i - days:i]
+   futureWindow = futureChanges.iloc[i - days:i]
+
+   cov = spotWindow.cov(futureWindow)
+   var = futureWindow.var()
+
+   hr = cov / var
+   ratios.append(hr)
+
+hrSeries = pd.Series(ratios, index = df.loc[days:].Date)
+
+
+hrSeries.plot()
+plt.title("Min Var Hedge Ratio") 
+plt.xlabel("Date")
+plt.ylabel("Hedge Ratio")
+
+print("It is visible by the Min Var Hedge Ratio plot that the minimum variance hedge ratio is not very stable as it fluctuates quite a bit over the time series.\nThe data does seem pretty consistent on the ratio of 1, but we also have large large declines in the middle fo the year 1993.\nBecause of such large spikes is a little worrisome to be consistent for long periods of time and with such instability there is a lot of risk involved. ")
+
+plt.show()
+
+```
+
+#### Q11. Bayesian Futures
+
+> The first thing I really got out of Quintana, Carvalho, Scott and Costigliola's article  is that futures markets, while appearing to be giving accurate consistent data, are still beatable, in the fashion of making returns. As stated with the binary bet, mixed in with the bayesian speculation, there is a probabilistic or arbitristic approach that will require other types of models, risk analysis and optimization. It came to my mind the thought by Buchanan in his paper Method, Process, and Austrian Economics, where he states, "..the next steps are not easy. The advances themselves will, of course, be genuine choices in the full [Shackleian] sense. They cannot be predicted. But there is surely some relationship between the objects of attention and the imaginative results that emerge. So long as modern economists devote their considerable intellectual energies, and imaginative skills, to the search for empirically testable regularities in human conduct, they will succeed in extending the scope of applicability for man-as-rat metaphor to describe economic theory."
+> I feel as that made an impact in my thinking of *beatable" futures markets, because as Buchanan says There is surely some kind of relationship in the catallactic market. Someone out their has a goal in mind that combined with the goals and ingenuity of others, there is a possibility, a binary test, to beat the futures markets and truly understand a perfect risk model.
+> Continued in the Bayesian Futures paper, I come to understand the quantitative framework that the Bayesian approach can bring. With the correct expectations for 
+the models and the risks, an arbitrage opportunity is truly prominent as we test over time and understand to a near perfect understanding of how the market works. 
+
+#### Q12. Bollen and Whaley
+``` {python}
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plot
+from numpy import size, log, exp, pi, sum, diff, array, zeros, diag, mat, asarray, sqrt, copy
+
+def simulated_supply(params, numObs=252, numReps = 10000): 
+    a1 = params[0]
+    b1 = params[1]
+    s1 = params[2]
+    S1 = params[3]
+
+    paths = np.empty((numReps, numObs))
+
+    for i in range(numReps):
+        paths[i,0] = np.log(S1)
+        z = np.random.normal(size = numObs)
+
+        for j in range(1, numObs):
+            paths[i, j] = paths[i, j - 1] + a1 * (b1 - exp(paths[i, j - 1])) + z[j] * s1
+
+    return paths
+
+
+alpha_1 = 0.342
+beta_1 = 0.539
+sigma_1 = 0.11
+alpha_2 = 0.391
+beta_2 = 0.560
+sigma_2 = 0.116
+p = 0.705
+S1 = 0.69
+
+oilParams = array([alpha_1, beta_1, sigma_1, S1])
+gasParams = array([alpha_2, beta_2, sigma_2, S1])
+
+numObs = 45
+numReps = 10
+
+paths = simulated_supply(oilParams, numObs, numReps)
+
+print(np.exp(paths[:,-1]))
+
+```
+
+

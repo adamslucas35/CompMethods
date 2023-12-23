@@ -1,0 +1,48 @@
+import numpy as np
+from scipy.stats import norm
+
+s = 41
+k = 40
+r = 0.08
+t = 1
+sigma = 0.25
+
+def d1(s, k, r, t, sigma):
+    return (np.log(s / k) + (r + sigma**2 / 2) * t) / (sigma * np.sqrt(t))
+d1 = d1(s, k, r, t, sigma)
+
+def d2(s, k, r, t, sigma):
+    return d1 - sigma * np.sqrt(t)
+
+d2 = d2(s, k, r, t, sigma)
+
+call = np.exp(-r * t) * s * norm.cdf(d1) - k * np.exp(-r * t) * norm.cdf(d2)
+call_d = np.exp(-r * t) * norm.cdf(d1)
+call_b = -np.exp(-r * t) * norm.pdf(d1) / (s * sigma * np.sqrt(t))
+
+put = call + np.exp(-r * t) * k - s
+put_d = -call_d
+put_b = call_b
+
+
+p_star = 0.5
+call_p_neutral = np.exp(-r * t) * (p_star * max(s - k, 0) + (1 - p_star) * max(0, s - k))
+call_d_neutral = p_star
+
+
+put_p_neutral = np.exp(-r * t) * (p_star * max(k - s, 0) + (1 - p_star) * max(k - s, 0))
+put_d_neutral = 1 - p_star
+
+print(call)
+print(call_d)
+print(call_b)
+
+print(put)
+print(put_d)
+print(put_b)
+
+print(call_p_neutral)
+print(call_d_neutral)
+
+print(put_p_neutral)
+print(put_d_neutral)
